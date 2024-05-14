@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-sixe {
+font-size: 13px;
+font-weight: 500;
+}
+
+.logo-img {
+    height: 120px;
+    width: 150px;
+}
+
+.font-weight {
+    font-size: 17px;
+    font-weight: 700;
+}
+.main-img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#Section-1-container  {
+    position: relative;
+}
+.text-cont {
+    position: absolute;
+    top: 14%;
+    padding: 5rem;
+    color: aliceblue;
+}
+.text-cont h1 {
+    font-size: 3.5rem;
+}
+.text-cont p {
+    font-size: 1.085rem;
+}
+.text-cont button {
+    height: 50px;
+    width: 25%;
+    border-radius: 100px;
+    border: none;
+}
+
+/*  */
+.sec-2-pera {
+    font-size: 33px;
+    margin-left: 20rem;
+}
+.sec-pera-2 {
+    margin-left: 35rem;
+    font-size: 33px;
+    line-height: 2px;
+}
+
+/* responsive */
+/* @media screen and (max-width:992px) {
+    .text-cont {
+        position: absolute;
+        top: 10%;
+        padding: 2rem;
+        color: aliceblue;
+    }
+} */
+
+#section-3 {
+    margin-top: 5rem;
+    display: flex;
+}
+
+.card-1{
+    height: 500px;
+    width: 400px;
+    /* border: 2px solid black; */
+    text-align: center;
+}
+
+.card-1-img {
+    height: 250px;
+    width: 350px;
+}
+.card-pera {
+    font-weight: 700;
+    font-size: 1.2rem;
+}
