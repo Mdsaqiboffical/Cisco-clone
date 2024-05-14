@@ -87,3 +87,66 @@ font-weight: 500;
     font-weight: 700;
     font-size: 1.2rem;
 }
+
+.dynamic-clas{
+    font-size: 1.2rem;
+    color: #176EB7;
+    cursor: pointer;
+}
+/* .dynamic-clas:hover{
+    width: 10%;
+    border-bottom: 2px solid black;
+    color: red;
+} */
+
+#section-4 {
+    margin-top: 4.85rem;
+}
+
+.card-2-img {
+    height: 55vh;
+    width: 45vw;
+}
+
+.right {
+    margin-left: 2rem;
+}
+
+.card-2-pera {
+    font-weight: 600;
+}
+
+.card-2-butn {
+    height: 4rem;
+    width: 14rem;
+    background-color: white;
+    border-radius: 2rem;
+    font-size: 1.2rem;
+    color: #176EB7 ;
+    border: 1px solid #176EB7;
+}
+
+#section-5 {
+    margin-top: 8rem;
+}
+
+.card-3-img {
+    height: 50vh;
+    width: 35vw;
+    margin-left: 8rem;
+}
+
+#section-6 {
+    margin-top: 8rem;
+}
+
+.cla {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.iframe-img {
+    margin-top: 2rem;
+    height: 80vh;
+    width: 80%;
+}
